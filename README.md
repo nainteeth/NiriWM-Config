@@ -33,3 +33,5 @@ _# To-Do:
  look for a f.lux alternative
  try out some config options
    animations for example
+
+figure out how to make the readme readable, since thats the point of a readme
