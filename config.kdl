@@ -102,7 +102,7 @@ output "DP-2" {
     mode "3840x2560@60"
     transform "normal"
     position x=-1920 y=0
-
+}
 // Settings that influence how windows are positioned and sized.
 // Find more information on the wiki:
 // https://github.com/YaLTeR/niri/wiki/Configuration:-Layout
