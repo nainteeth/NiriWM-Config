@@ -25,7 +25,7 @@
 - gimp
 - virtual box
 
-_# To-Do:
+## To-Do:
  - configure keybinds in config.kdl
  - configure wallpapers
  - install all missing software
