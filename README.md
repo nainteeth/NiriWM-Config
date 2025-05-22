@@ -27,11 +27,9 @@
 - virtual box
 
 _# To-Do:
- configure keybinds in config.kdl
- configure wallpapers
- install all missing software
- look for a f.lux alternative
- try out some config options
-   animations for example
-
-figure out how to make the readme readable, since thats the point of a readme
+ - configure keybinds in config.kdl
+ - configure wallpapers
+ - install all missing software
+ - look for a f.lux alternative
+ - try out some config options
+   - animations for example
