@@ -1,5 +1,4 @@
-﻿## NiriWM-Config
-## Packages (not exact package names):
+## Packages (not exact package names yet):
 - alacritty
 - waybar
 - zen-browser
