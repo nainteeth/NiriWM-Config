@@ -343,7 +343,7 @@ binds {
     Super+Shift+Slash { show-hotkey-overlay; }
 
     // Suggested binds for running programs: terminal, app launcher, screen locker.
-    Super+ENTER hotkey-overlay-title="Open a Terminal: alacritty" { spawn "alacritty"; }
+    Super+return hotkey-overlay-title="Open a Terminal: alacritty" { spawn "alacritty"; }
     Super+SPACE hotkey-overlay-title="Run an Application: fuzzel" { spawn "fuzzel"; }
     Super+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn "swaylock"; }
 
